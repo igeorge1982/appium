@@ -1,4 +1,4 @@
-Sample Appium JUnit project
+Sample Appium TestNG project
 ---
 
 This contains the source code for running sample [Appium](http://github.com/appium/appium) tests using [TestNG](http://www.testng.org).
@@ -11,7 +11,7 @@ You will then need to start appium without any configuration, eg:
 
 To install and run all tests, run:
 
-    mvn -Dmaven.test.skip=true install
+    mvn -Dmaven.test.skip=true package
     
 To use a different .apk on different device, simply update the parameters in the testng.xml. (not all devices are implemented yet)
 
