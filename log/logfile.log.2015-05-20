@@ -1,0 +1,141 @@
+[20/05/15 11:47:24:024 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:47:56:056 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Could not find a connected Android device.) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31.97 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 11:47:56:056 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 11:47:56:056 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:48:56:056 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:49:09:009 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.98 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 11:49:09:009 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 11:49:09:009 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:49:28:028 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 11:50:07:007 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 11:50:07:007 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-11-50-4-855.png
+[20/05/15 11:51:30:030 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:51:47:047 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 11:52:13:013 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 11:52:13:013 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-11-52-10-194.png
+[20/05/15 11:52:17:017 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 11:52:35:035 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:01:00:000 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:01:14:014 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.04 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 12:01:14:014 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 12:01:14:014 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:01:31:031 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:03:07:007 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:03:25:025 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:04:25:025 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:04:43:043 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:05:43:043 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 12:05:43:043 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-12-5-38-884.png
+[20/05/15 12:14:14:014 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:14:36:036 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:15:20:020 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:15:38:038 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:16:07:007 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 12:16:07:007 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-12-16-3-968.png
+[20/05/15 12:20:58:058 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:21:15:015 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:21:39:039 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 12:21:39:039 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-12-21-35-443.png
+[20/05/15 12:23:07:007 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:23:24:024 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:24:06:006 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 12:24:24:024 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 12:24:46:046 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 12:24:46:046 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-12-24-42-542.png
+[20/05/15 01:29:50:050 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 01:30:08:008 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 01:31:54:054 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 01:31:54:054 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-13-31-50-918.png
+[20/05/15 02:58:15:015 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 02:58:32:032 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 02:59:03:003 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 02:59:03:003 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-14-59-0-254.png
+[20/05/15 03:05:38:038 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 03:05:55:055 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 03:06:30:030 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\User1\Documents\automation_android\test-output\html\ScreenShots\\
+[20/05/15 03:06:30:030 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apknavigationTest--2015-4-20-15-6-26-51.png
+[20/05/15 04:09:24:024 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:09:38:038 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.90 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 04:09:38:038 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 04:09:38:038 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:52:01:001 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:52:29:029 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Could not find a connected Android device.) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27.66 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 04:52:29:029 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 04:52:29:029 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:57:41:041 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:58:09:009 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: Could not find a connected Android device.) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27.63 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 04:58:09:009 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 04:58:09:009 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 04:59:28:028 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 05:00:32:032 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 63.34 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 05:00:32:032 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 05:00:32:032 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:13:02:002 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:13:16:016 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.88 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 06:13:16:016 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 06:13:16:016 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:13:29:029 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:14:36:036 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:14:47:047 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:21:06:006 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:21:27:027 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:22:55:055 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:23:03:003 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:24:31:031 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:24:40:040 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:25:58:058 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:26:11:011 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.03 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 06:26:11:011 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 06:26:11:011 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:26:22:022 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:27:31:031 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:27:42:042 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:28:57:057 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:29:10:010 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13.00 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'PC1', ip: '192.168.21.113', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[20/05/15 06:29:10:010 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R115.apk is reconnecting!
+[20/05/15 06:29:10:010 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:29:18:018 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:30:52:052 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:31:00:000 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[20/05/15 06:32:22:022 CEST]  INFO log4j.Logger: WIN8_1
+[20/05/15 06:32:30:030 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]

@@ -1,0 +1,506 @@
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: default
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:46:09:009 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: default
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:47:16:016 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: default
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:48:28:028 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: AndroidDriver
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: **.apkk is reconnecting!
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: default
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:48:29:029 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 11:48:30:030 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: default
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:49:04:004 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:49:05:005 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:49:05:005 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:49:05:005 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:49:40:040 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 11:50:15:015 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:50:16:016 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\igeorge1982\Documents\automation_android\test-output\html\ScreenShots\\
+[01/07/15 11:50:16:016 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:50:17:017 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\igeorge1982\Documents\automation_android\test-output\html\ScreenShots\\
+[01/07/15 11:50:17:017 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: default
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:54:47:047 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:54:58:058 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 11:55:46:046 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 11:55:46:046 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 11:55:46:046 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[01/07/15 11:55:46:046 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 11:55:46:046 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: default
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:57:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:57:40:040 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 11:58:27:027 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 11:58:27:027 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 11:58:27:027 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[01/07/15 11:58:27:027 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 11:58:28:028 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: default
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:59:32:032 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 11:59:43:043 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 12:00:28:028 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:00:28:028 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 12:00:28:028 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[01/07/15 12:00:28:028 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 12:00:29:029 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: default
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:03:40:040 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:03:51:051 CEST]  INFO log4j.Logger: The execution of Test_Menu starts now
+[01/07/15 12:03:52:052 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:03:52:052 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 12:03:52:052 CEST]  INFO log4j.Logger: Test_Menu test succeeded!
+[01/07/15 12:03:52:052 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 12:03:53:053 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: default
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:04:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:04:31:031 CEST]  INFO log4j.Logger: The execution of Test_Menu starts now
+[01/07/15 12:04:32:032 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:04:32:032 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 12:04:32:032 CEST]  INFO log4j.Logger: Test_Menu test succeeded!
+[01/07/15 12:04:32:032 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 12:04:32:032 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 12:05:17:017 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:05:17:017 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 12:05:17:017 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[01/07/15 12:05:17:017 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 12:05:18:018 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: a4dbf727
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: samsung SM-G900F
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: default
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: 5.0
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung SM-G900F, default
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:05:49:049 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 12:05:59:059 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\igeorge1982\Documents\automation_android\test-output\html\ScreenShots\\
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: Test_SignIn--2015-6-1-12-6-34-597.png
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: Test Status: Failed
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: Test_SignIn test failed!
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: Fuck
+[01/07/15 12:06:35:035 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 12:07:04:004 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 12:07:04:004 CEST]  INFO log4j.Logger: Test Status: Pass
+[01/07/15 12:07:04:004 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[01/07/15 12:07:04:004 CEST]  INFO log4j.Logger: Minden fasza
+[01/07/15 12:07:05:005 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:55:055 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: AndroidDriver
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:57:057 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 02:39:58:058 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 02:57:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 02:58:05:005 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:06:59:059 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: AndroidDriver
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:00:000 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:07:01:001 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:07:43:043 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:13:013 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:08:26:026 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:40:040 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:09:53:053 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:02:002 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:13:15:015 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test Status: Failed
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test_SignIn test failed!
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Fuck
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test Status: Failed
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Test_Search test failed!
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Fuck
+[01/07/15 03:17:53:053 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:20:27:027 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Test_Search was skipped!
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:20:40:040 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:06:006 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:25:21:021 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:25:55:055 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:26:09:009 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: BX903JUX6V
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: Sony C6603
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: nosdcard
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: 4.4.4
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony C6603, nosdcard
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: WIN8_1
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[01/07/15 03:27:30:030 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to main.java.qa.android.events.CustomWebDriver
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: Test Status: Skipped
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: Test_SignIn was skipped!
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: Shit happens
+[01/07/15 03:27:43:043 CEST]  INFO log4j.Logger: Completed executing test Test on Android

@@ -1,0 +1,17 @@
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: 4df190af730c5f2b
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: samsung GT-I9300
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: phone
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: 4.3
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: Nr 1 attached device: samsung GT-I9300, phone
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: WIN8_1
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apk
+[03/07/15 02:11:22:022 CEST]  INFO log4j.Logger: App is: C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[03/07/15 02:12:09:009 CEST]  INFO log4j.Logger: The execution of Test_Menu starts now
+[03/07/15 02:12:09:009 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[03/07/15 02:12:09:009 CEST]  INFO log4j.Logger: Test Status: Pass
+[03/07/15 02:12:09:009 CEST]  INFO log4j.Logger: Test_Menu test succeeded!
+[03/07/15 02:12:09:009 CEST]  INFO log4j.Logger: Minden fasza
+[03/07/15 02:12:11:011 CEST]  INFO log4j.Logger: Completed executing test Test on Android

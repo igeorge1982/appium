@@ -1,0 +1,150 @@
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 06:32:15:015 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: AndroidDriver
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R206.apk is reconnecting!
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 06:32:16:016 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: java.nio.file.InvalidPathException: Illegal char <*> at index 50: C:\Users\igeorge1982\Documents\automation_android\**.apk
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: **.apk is reconnecting!
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 06:36:21:021 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:01:53:053 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:05:35:035 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:\Users\igeorge1982\Documents\automation_android\C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apkk is reconnecting!
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:06:40:040 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:\Users\igeorge1982\Documents\automation_android\C:\Users\igeorge1982\Documents\automation_android\BROADBAND.0.1.0_R211.apk
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apkk is reconnecting!
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:07:47:047 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:11:00:000 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: AndroidDriver
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: BROADBAND.0.1.0_R211.apkk is reconnecting!
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:11:02:002 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:11:47:047 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:17:49:049 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:28:31:031 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:29:01:001 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:29:11:011 CEST]  INFO log4j.Logger: The execution of Test_SignIn starts now
+[30/06/15 07:29:47:047 CEST]  INFO log4j.Logger:  *** Capture files are created in C:\Users\igeorge1982\Documents\automation_android\test-output\html\ScreenShots\\
+[30/06/15 07:29:47:047 CEST]  INFO log4j.Logger: nullTest_SignIn--2015-5-30-19-29-46-512.png
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: App was reset!
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: Test Status: Failed
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: Test_SignIn test failed!
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: Fuck
+[30/06/15 07:29:49:049 CEST]  INFO log4j.Logger: The execution of Test_Search starts now
+[30/06/15 07:30:37:037 CEST]  INFO log4j.Logger: Test Method resides in main.java.qa.android.test.java.Test_BasicNavigation
+[30/06/15 07:30:37:037 CEST]  INFO log4j.Logger: Test Status: Pass
+[30/06/15 07:30:37:037 CEST]  INFO log4j.Logger: Test_Search test succeeded!
+[30/06/15 07:30:37:037 CEST]  INFO log4j.Logger: Minden fasza
+[30/06/15 07:30:38:038 CEST]  INFO log4j.Logger: Completed executing test Test on Android
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:36:52:052 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: CB5126R51P
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: Sony SGP512
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: tablet,nosdcard
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: 5.0.2
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: Nr 1 attached device: Sony SGP512, tablet,nosdcard
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: Nr of attached devices: 1
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: WIN8_1
+[30/06/15 07:38:25:025 CEST]  INFO log4j.Logger: No app in user.dir

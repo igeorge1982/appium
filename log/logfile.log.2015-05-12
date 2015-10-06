@@ -1,0 +1,17 @@
+[12/05/15 05:11:05:005 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 05:11:19:019 CEST]  INFO log4j.Logger: org.openqa.selenium.SessionNotCreatedException: A new session could not be created. (Original error: spawn OK) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14.07 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'Gyuri', ip: '192.168.21.50', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: io.appium.java_client.android.AndroidDriver
+[12/05/15 05:11:19:019 CEST]  INFO log4j.Logger: api.apk is reconnecting!
+[12/05/15 05:11:19:019 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 05:11:45:045 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[12/05/15 05:23:17:017 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 05:23:36:036 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[12/05/15 05:28:30:030 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 05:28:46:046 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[12/05/15 05:29:40:040 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 05:29:55:055 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
+[12/05/15 08:33:52:052 CEST]  INFO log4j.Logger: WIN8_1
+[12/05/15 08:34:08:008 CEST]  INFO log4j.Logger: Context: [NATIVE_APP]
